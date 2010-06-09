@@ -1,0 +1,8 @@
+This is an old plugin that was written for AIM Triton.
+
+It's written in C#.Net and exposed itself via COM/Interop
+
+It's probably not of use to anyone, but it was kind of handy.
+
+It basically allows you to configure a disclaimer message that is automatically sent out to buddies
+in a configurable group at a configurable time interval.
